@@ -23,5 +23,5 @@ This GitHub is my hands-on portfolio projects where I set up, break, and fix rea
 - PowerShell scripting for automation
 
 ## 📫 Contact
-email: denisaeit@gmail.com
+email: amreprof@gmail.com
 Whastapp: +90 535 504 27 33
